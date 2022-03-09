@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# vuepress files
+.temp
+
+# Editor directories and files
+.history
+.vscode
+
+# Mos
+.DS_Store
