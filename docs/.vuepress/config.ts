@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from "vuepress";
 import { navbar } from "./config/index";
 
 export default defineUserConfig<DefaultThemeOptions>({
-  base: "/",
+  base: "/VuePress-Apprentice/",
   head: [["link", { rel: "icon", href: "/images/favicon.png" }]],
   lang: "zh-cn",
   title: "前端知识图谱",
