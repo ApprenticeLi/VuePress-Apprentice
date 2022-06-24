@@ -109,6 +109,7 @@ dist
 # Editor directories and files
 .history
 .vscode
+.idea
 
 # Mos
 .DS_Store
