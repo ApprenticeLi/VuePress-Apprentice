@@ -38,7 +38,7 @@ const navbar: NavbarConfig = [
     ],
   },
   {
-    text: "学习路线",
+    text: "学习链接",
     children: [
       { text: "web前端面试-面试官系列", link: "https://vue3js.cn/interview/" },
       { text: "前端知识图谱", link: "https://f2e.tech" },
